@@ -1,2 +1,3 @@
 # hello-world
 Getting Started...
+Hello. My name is Derek and I am an aspiring software engineer looking to create some interesting personal projects.
